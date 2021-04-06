@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Corona_Instant_Updates/static/css/main.5109dc32.chunk.css",
+    "main.js": "/Corona_Instant_Updates/static/js/main.8f15ae15.chunk.js",
+    "main.js.map": "/Corona_Instant_Updates/static/js/main.8f15ae15.chunk.js.map",
+    "runtime-main.js": "/Corona_Instant_Updates/static/js/runtime-main.88c46837.js",
+    "runtime-main.js.map": "/Corona_Instant_Updates/static/js/runtime-main.88c46837.js.map",
+    "static/js/2.bf1e2c84.chunk.js": "/Corona_Instant_Updates/static/js/2.bf1e2c84.chunk.js",
+    "static/js/2.bf1e2c84.chunk.js.map": "/Corona_Instant_Updates/static/js/2.bf1e2c84.chunk.js.map",
+    "static/js/3.bab621ab.chunk.js": "/Corona_Instant_Updates/static/js/3.bab621ab.chunk.js",
+    "static/js/3.bab621ab.chunk.js.map": "/Corona_Instant_Updates/static/js/3.bab621ab.chunk.js.map",
+    "index.html": "/Corona_Instant_Updates/index.html",
+    "static/css/main.5109dc32.chunk.css.map": "/Corona_Instant_Updates/static/css/main.5109dc32.chunk.css.map",
+    "static/js/2.bf1e2c84.chunk.js.LICENSE.txt": "/Corona_Instant_Updates/static/js/2.bf1e2c84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88c46837.js",
+    "static/js/2.bf1e2c84.chunk.js",
+    "static/css/main.5109dc32.chunk.css",
+    "static/js/main.8f15ae15.chunk.js"
+  ]
+}
